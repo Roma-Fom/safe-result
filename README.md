@@ -1,4 +1,4 @@
-# safe-result
+# safe-result-ts
 
 A TypeScript utility for handling success and failure results in a type-safe manner without the need for try-catch blocks.
 
@@ -7,7 +7,7 @@ A TypeScript utility for handling success and failure results in a type-safe man
 Install the package using npm:
 
 ```sh
-npm install safe-result
+npm install safe-result-ts
 ```
 
 ## Usage
