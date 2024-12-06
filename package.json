@@ -1,0 +1,20 @@
+{
+  "name": "safe-result",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf ./dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roma-Fom",
+  "license": "ISC",
+  "description": "TS library for safe result handling",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
